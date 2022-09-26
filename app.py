@@ -1,6 +1,7 @@
 import pickle
 import streamlit as st
-from sklearn.ensemble import RandomForestClassifier
+
+
 st.write('''
 # Penguin Classification
 ## Input penguin details
